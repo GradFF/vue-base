@@ -5,7 +5,7 @@ const { user } = useStore()
 
 console.log(user)
 </script>
-
+  
 <template>
   <div class="container mx-auto">
     <h1>Home Page</h1>
